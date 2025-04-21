@@ -23,7 +23,7 @@ export const Bio = {
   github: "https://github.com/MuhammadSaad9622",
   resume:
     "https://drive.google.com/file/d/1axyvPbJiZJJVCaBUIGDRXqwmC_fqWTdE/view",
-  linkedin: "https://www.linkedin.com/in/muhammad-saad-b496b3201/",
+  linkedin: "https://www.linkedin.com/in/muhammad-saad-440473320/",
   twitter: "https://twitter.com/home",
   insta: "https://www.instagram.com/muhammaad_saad_official_/",
   facebook: "https://www.facebook.com/profile.php?id=100008793547216",
